@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "T-Shirt",
+        "category": "clothing",
+        "price": 200,
+        "image": "/images/img/shop/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "White Shoes",
+        "category": "shoes",
+        "price": 250,
+        "image": "/images/img/featured/1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "BackBag",
+        "category": "bags",
+        "price": 290,
+        "image": "/images/img/featured/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Classy Shoes",
+        "category": "shoes",
+        "price": 200,
+        "image": "/images/img/featured/2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cross_Bag",
+        "category": "bags",
+        "price": 300,
+        "image": "/images/img/shop/3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Jacket",
+        "category": "clothing",
+        "price": 200,
+        "image": "/images/img/shop/8.jpg"
+    },
+    {
+        "id": 7,
+        "name": "T-Shirt",
+        "category": "clothing",
+        "price": 200,
+        "image": "/images/img/shop/16.jpg"
+    },
+    {
+        "id": 8,
+        "name": "BackBag",
+        "category": "bags",
+        "price": 200,
+        "image": "/images/img/featured/3.jpg"
+    },
+    {
+        "id": 9,
+        "name": "T-Shirt",
+        "category": "clothing",
+        "price": 200,
+        "image": "/images/img/shop/24.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Classy Shoes",
+        "category": "shoes",
+        "price": 200,
+        "image": "/images/img/shop/14.jpg"
+    },
+    {
+        "id": 11,
+        "name": "BackBag",
+        "category": "bags",
+        "price": 200,
+        "image": "/images/img/shop/9.jpg"
+    },
+    {
+        "id": 12,
+        "name": "T-Shirt",
+        "category": "clothing",
+        "price": 200,
+        "image": "/images/img/shop/25.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Classy Shoes",
+        "category": "shoes",
+        "price": 200,
+        "image": "/images/img/shop/4.jpg"
+    },
+    {
+        "id": 14,
+        "name": "T-Shirt",
+        "category": "clothing",
+        "price": 200,
+        "image": "/images/img/shop/26.jpg"
+    },
+    {
+        "id": 15,
+        "name": "SportShoes",
+        "category": "shoes",
+        "price": 200,
+        "image": "/images/img/shop/2.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Jacket",
+        "category": "clothing",
+        "price": 200,
+        "image": "/images/img/shop/6.jpg"
+    }
+]

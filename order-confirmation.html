@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Shipped</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            max-width: 500px;
+            margin: auto;
+            padding: 20px;
+            border: 2px solid #28a745;
+            border-radius: 10px;
+            background: #f8f9fa;
+        }
+        h1 {
+            color: #28a745;
+        }
+        p {
+            font-size: 18px;
+        }
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>✅ Order Shipped!</h1>
+        <p>Total amount paid: <span id="totalPrice"></span> USD</p>
+        <p>Thank you for shopping with us! 🚚✨</p>
+        <a href="home/home.html">🔙 Back to Home</a>
+    </div>
+    
+    <script>
+        // Retrieve total price from localStorage and display it on the page
+        document.getElementById('totalPrice').innerText = localStorage.getItem('totalPrice') || 'Not Available';
+    </script>
+    
+
+</body>
+</html>
